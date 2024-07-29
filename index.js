@@ -1,2 +1,1 @@
-const sum=(a,b)=>a+b
-const Nav=()=>"nav added..."
+const sum=(a,b)=>a+bfi
