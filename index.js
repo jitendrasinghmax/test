@@ -1,1 +1,1 @@
-const sum=(a,b)=>a+bfi
+const print=()=>console.log("hello world")
